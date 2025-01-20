@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Sugira uma ideia para este repositório
-title: "[SUGESTÃO]"
-labels: enhancement
+name: Community chalenge
+about: Crie uma issue sobre o Desafio proposto à comunidade
+title: "[DESAFIO]"
+labels: Community chalenge, enhancement
 assignees: ''
 
 ---
